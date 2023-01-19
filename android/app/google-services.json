@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "899599059622",
+    "project_id": "shivovi-bed9f",
+    "storage_bucket": "shivovi-bed9f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:899599059622:android:c5e55fdbc47202c69d8267",
+        "android_client_info": {
+          "package_name": "com.example.shivovi_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "899599059622-59ekka316rmj7qkte1sq91evh48aqgdh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQtAkpFn_hzpEzZVdkwVgqc2N_Q0cM88c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "899599059622-59ekka316rmj7qkte1sq91evh48aqgdh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
